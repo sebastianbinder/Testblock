@@ -1,0 +1,7 @@
+name: Testblock
+main: com.sebastianbinder.testblock.TestblockPlugin
+version: ${versionstring}
+depend: [WorldEdit]
+commands:
+  testblock:
+    description: testblock
